@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  },
+  "scripts": {
+    "dev": "ts-node index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
